@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Jump to solution](https://www.frontendmentor.io/solutions/responsive-blogr-landing-page-using-flexbox-and-css-grid-t5RNXDZB1)
--  Live Site URL: [https://romantic-panini-e82ee9.netlify.app](https://romantic-panini-e82ee9.netlify.app/)
+-  Solution URL: [View Solution](https://www.frontendmentor.io/solutions/responsive-room-homepage-using-flexbox-grid-and-javascript-wye8JekOr)
+-  Live Site URL: [https://sharp-davinci-ad5279.netlify.app/](https://sharp-davinci-ad5279.netlify.app/)
 
 ### Built with
 
